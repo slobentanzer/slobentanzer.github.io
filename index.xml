@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sebastian lobentanzer</title><link>https://slobentanzer.github.io/</link><description>Recent content on sebastian lobentanzer</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><atom:link href="https://slobentanzer.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://slobentanzer.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slobentanzer.github.io/publications/</guid><description>Publications Monograph Lobentanzer S (2020) Small RNA Dynamics in Cholinergic Systems. Dissertation, defended 2nd of October 2020 (summa cum laude), available at http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/56125
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sebastian lobentanzer</title>
+    <link>https://slobentanzer.github.io/</link>
+    <description>Recent content on sebastian lobentanzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://slobentanzer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://slobentanzer.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://slobentanzer.github.io/publications/</guid>
+      <description>Publications Monograph Lobentanzer S (2020) Small RNA Dynamics in Cholinergic Systems. Dissertation, defended 2nd of October 2020 (summa cum laude), available at http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/56125
 Peer-reviewed manuscripts Lobentanzer S, Klein J, Soreq H (2020) Establishing human male and female models of cholinergic neurons via neurokine-mediated differentiation of LA-N-2 and LA-N-5 neuroblastoma cells. STAR Protocols, 1 (3), doi: https://doi.org/10.1016/j.xpro.2020.100193
-Winek K†, Lobentanzer S†, Nadorp B, Dubnov S, Dames C, Jagdmann S, Moshitzky G, Hotter B, Meisel C, Greenberg DS, Shifman S, Klein J, Shenhar-Tsarfaty S, Meisel A, Soreq H (2020) Transfer RNA fragments replace microRNA regulators of the cholinergic post-stroke immune blockade.</description></item><item><title/><link>https://slobentanzer.github.io/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slobentanzer.github.io/teaching/</guid><description>Teaching I have been teaching a variety of courses since the beginning of my PhD in 2015, usually single-topic courses and short series between 2 and 8 hours, in several areas of the life sciences.
-Pharmacology (single or double courses of 3-6 hours) Basics of pharmacology: pharmacodynamics, pharmacokinetics. Specifics of pathology and pharmacology: pain, mental disease, neurodegenerative disease, sleep disorders and epilepsy, gastrointestinal disease, asthma and chronic inflammatory disease, infectious disease, circulatory and cardiac disease, endocrine disorders, oncology, toxicology.</description></item></channel></rss>
+Winek K†, Lobentanzer S†, Nadorp B, Dubnov S, Dames C, Jagdmann S, Moshitzky G, Hotter B, Meisel C, Greenberg DS, Shifman S, Klein J, Shenhar-Tsarfaty S, Meisel A, Soreq H (2020) Transfer RNA fragments replace microRNA regulators of the cholinergic post-stroke immune blockade.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://slobentanzer.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://slobentanzer.github.io/teaching/</guid>
+      <description>Teaching I have been teaching a variety of courses since the beginning of my PhD in 2015, usually single-topic courses and short series between 2 and 8 hours, in several areas of the life sciences.
+Pharmacology (single or double courses of 3-6 hours)  Basics of pharmacology:  pharmacodynamics, pharmacokinetics.   Specifics of pathology and pharmacology:  pain, mental disease, neurodegenerative disease, sleep disorders and epilepsy, gastrointestinal disease, asthma and chronic inflammatory disease, infectious disease, circulatory and cardiac disease, endocrine disorders, oncology, toxicology.</description>
+    </item>
+    
+  </channel>
+</rss>
