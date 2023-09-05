@@ -23,9 +23,10 @@ Effectively dealing with the avalanche of biomedical measurements of today - wit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://slobentanzer.github.io/publications/</guid>
-      <description>Publications A list of my publications with short summaries.
-review: Garrido-Rodriguez M, Zirngibl K, Ivanova O, Lobentanzer S, Saez-Rodriguez J (2022) Integrating knowledge and omics to decipher mechanisms via large-scale models of signaling networks Molecular Systems Biology, 18:e11036, doi: https://doi.org/10.15252/msb.202211036
- An overview of computational methods to evaluate signal transduction at the protein interaction layer. Briefly, the methods are heterogeneous in design as well as in purpose, and a medium-term objective should be the harmonisation and benchmarking of these methods to establish a baseline for the performance of signal propagation network modelling in molecular biology.</description>
+      <description>Publications A list of my publications with short summaries
+preprint: Lobentanzer S, Saez-Rodriguez J (2023) A platform for the biomedical application of Large Language Models arXiv, doi: https://arxiv.org/abs/2305.06488
+ BioChatter is an extension of the BioCypher ecosystem that enables the modular integration of Large Language Models into biomedical workflows. Its prototype frontend, ChatGSE demonstrates some capabilities of the framework in facilitating human-machine collaboration.
+ paper: Lobentanzer S, , Saez-Rodriguez J (2023) Democratizing knowledge representation with BioCypher Nature Biotechnology, 41, 1056–1059, doi: https://www.</description>
     </item>
     
     <item>
