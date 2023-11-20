@@ -23,10 +23,9 @@ Effectively dealing with the avalanche of biomedical measurements of today - wit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://slobentanzer.github.io/publications/</guid>
-      <description>Publications A list of my publications with short summaries
+      <description>Publications In the following, you can find a list of highlighted publications with short summaries. For all publications, please see my Google Scholar profile.
 preprint: Lobentanzer S, Saez-Rodriguez J (2023) A platform for the biomedical application of Large Language Models arXiv, doi: https://arxiv.org/abs/2305.06488
-BioChatter is an extension of the BioCypher ecosystem that enables the modular integration of Large Language Models into biomedical workflows. Its prototype frontend, ChatGSE demonstrates some capabilities of the framework in facilitating human-machine collaboration.
-paper: Lobentanzer S, , Saez-Rodriguez J (2023) Democratizing knowledge representation with BioCypher Nature Biotechnology, 41, 1056–1059, doi: https://www.</description>
+BioChatter is an extension of the BioCypher ecosystem that enables the modular integration of Large Language Models into biomedical workflows. Its prototype frontend, ChatGSE demonstrates some capabilities of the framework in facilitating human-machine collaboration.</description>
     </item>
     
     <item>
