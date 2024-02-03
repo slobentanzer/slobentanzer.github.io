@@ -14,7 +14,7 @@
       
       <guid>https://slobentanzer.github.io/about/</guid>
       <description>About I am a pharmacologist turned research software engineer, and I am particularly interested in disentangling causal relationships in molecular biology. I pursue this goal as a part of the lab of Julio Saez-Rodriguez at the Heidelberg University Hospital.
-Effectively dealing with the avalanche of biomedical measurements of today - without throwing away large parts of the data - requires a smart digital infrastructure. Thus, I am actively developing a unified framework for biomedical knowledge representation, BioCypher, as well as the prior knowledge database OmniPath and its infrastructural backend, pypath, with the aim of automating harmonisation of biomedical representations for a multitude of research tasks.</description>
+Effectively dealing with the avalanche of biomedical measurements of today - without throwing away large parts of the data - requires a smart digital infrastructure. Thus, I am actively developing a unified framework for biomedical knowledge representation, BioCypher, as well as the prior knowledge database OmniPath, with the aim of automating harmonisation of biomedical representations for a multitude of research tasks.</description>
     </item>
     
     <item>
@@ -24,8 +24,8 @@ Effectively dealing with the avalanche of biomedical measurements of today - wit
       
       <guid>https://slobentanzer.github.io/publications/</guid>
       <description>Publications In the following, you can find a list of highlighted publications with short summaries. For all publications, please see my Google Scholar profile.
-preprint: Lobentanzer S, Saez-Rodriguez J (2023) A platform for the biomedical application of Large Language Models arXiv, doi: https://arxiv.org/abs/2305.06488
-BioChatter is an extension of the BioCypher ecosystem that enables the modular integration of Large Language Models into biomedical workflows. Its prototype frontend, ChatGSE demonstrates some capabilities of the framework in facilitating human-machine collaboration.</description>
+preprint: Lobentanzer S, Rodriguez-Mier P, Bauer S, Saez-Rodriguez J (2024) Molecular causality in the advent of foundation models arXiv, doi: https://arxiv.org/abs/2305.06488
+Exploration of and perspective on the tradeoff between simplicity and complexity in molecular modelling, with a focus on current trends in deep learning and their potential application in causal inference.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@ BioChatter is an extension of the BioCypher ecosystem that enables the modular i
       
       <guid>https://slobentanzer.github.io/teaching/</guid>
       <description>Teaching I have been teaching a variety of courses since the beginning of my PhD in 2015, usually single-topic courses and short series between 2 and 8 hours, in several areas of the life sciences.
-Meta-science (seminar series) GRADE Postgraduate Seminar Series &amp;lsquo;Reproducibility in Biomedical Research&amp;rsquo; (Goethe University Frankfurt). MSc module &amp;lsquo;Reproducibility in Biomedical Research&amp;rsquo; (University Clinic Heidelberg, Molecular Bioscience and Molecular Biotechnology programs) Pharmacology (single or double courses of 3-6 hours) Basics of pharmacology: pharmacodynamics, pharmacokinetics.</description>
+Medical Informatics (elective project-based course) Mapping of ontology terms based on internal representation of biomedically trained Large Language Models (Heidelberg University Hospital, &amp;lsquo;Digital Medicine&amp;rsquo;). Annotation of single cells based on gene markers and free text using a combination of Large Language Models and ontology tools (Heidelberg University Hospital, &amp;lsquo;Digital Medicine&amp;rsquo;).</description>
     </item>
     
   </channel>
