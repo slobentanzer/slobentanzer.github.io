@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on sebastian lobentanzer</title>
+    <title>Series on Sebastian Lobentanzer</title>
     <link>https://slobentanzer.github.io/series/</link>
-    <description>Recent content in Series on sebastian lobentanzer</description>
+    <description>Recent content in Series on Sebastian Lobentanzer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://slobentanzer.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://slobentanzer.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
