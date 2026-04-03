@@ -1,35 +1,60 @@
-img.circle {
-    -webkit-mask-image: radial-gradient(circle at center, black 0%, transparent 50%);
-    mask-image: radial-gradient(circle at center, black 0%, transparent 50%);
-}
-
-.circle {
-    max-width: min(600px, 50vw) !important;
-    height: auto;
+.portrait-container {
+    position: relative;
+    display: inline-block;
+    max-width: min(800px, 90vw);
 
     @media (max-width: 900px) {
-        max-width: min(400px, 60vw) !important;
+        max-width: min(600px, 90vw);
     }
 
     @media (max-width: 684px) {
-        max-width: min(300px, 70vw) !important;
+        max-width: min(400px, 95vw);
     }
 }
 
-.subtitle-large {
-    font-size: clamp(.5rem, 3.5vw, 1.5em) !important;
-    margin-bottom: 0.2em;
-    white-space: pre-line;
+.portrait {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 20px;
 }
 
-.subtitle-small {
-    font-size: clamp(.3rem, 2.5vw, 1.1em) !important;
-    margin-top: 0;
-    white-space: pre-line;
+.social-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1.5em 0 1em;
+    border-radius: 0 0 20px 20px;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.5));
+    text-align: center;
 }
 
-main h1 {
-    font-size: clamp(2rem, 6vw, 3rem);
-    margin: 0.4em 0;
-    line-height: 1.2;
+.social-overlay a {
+    color: white;
+}
+
+.social-overlay a:hover {
+    color: #ddd;
+}
+
+.social-overlay svg {
+    width: 2em;
+    height: 2em;
+    stroke: rgba(255, 255, 255, 0.7);
+    stroke-width: 1;
+}
+
+.social-overlay svg[fill="currentColor"] {
+    fill: rgba(255, 255, 255, 0.7);
+    stroke: none;
+}
+
+.social-overlay a:hover svg {
+    stroke: rgba(255, 255, 255, 1);
+}
+
+.social-overlay a:hover svg[fill="currentColor"] {
+    fill: rgba(255, 255, 255, 1);
+    stroke: none;
 }
